@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"Schere_Stein_Papier","l":"Computer"},{"p":"Schere_Stein_Papier","l":"Game"},{"p":"Schere_Stein_Papier","l":"IO"},{"p":"Schere_Stein_Papier","l":"Main"},{"p":"Schere_Stein_Papier","l":"Player"}];updateSearchResults();
